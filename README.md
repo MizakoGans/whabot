@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MizakoGans/whabot/main/media/waifuku.jpg" alt="Mizaa BOT" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Mizaa BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Mizaa BOT" src="https://img.shields.io/badge/MIZAA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MizakoGans"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
