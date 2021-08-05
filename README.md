@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Waifuku.jpg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/waifuku.jpg" alt="Mizaa BOT" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Mizaa BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
