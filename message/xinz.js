@@ -387,7 +387,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
                 textImg(stickerMenu(prefix))
             }
                 break
-            case prefix+'creatormenu': case prefix+'ownermenu':{
+            case prefix+'creatormenu': case prefix+'owner':{
                 textImg(ownerMenu(prefix, setting.ownerName))
             }
                 break
@@ -395,7 +395,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
                 textImg(groupMenu(prefix))
             }
                 break
-            case prefix+'sistemmenu': case prefix+'menusistem':{
+            case prefix+'sistemmenu': case prefix+'sistem':{
                 textImg(sistemMenu(prefix, setting.ownerName))
             }
                 break
@@ -403,43 +403,43 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
                 textImg(kerangMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'gamemenu': case prefix+'menugame':{
+            case prefix+'gamemenu': case prefix+'game':{
                 textImg(gameMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'downloadmenu': case prefix+'menudownload':{
+            case prefix+'downloadmenu': case prefix+'download':{
                 textImg(downloadMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'searchmenu': case prefix+'menusearch':{
+            case prefix+'searchmenu': case prefix+'search':{
                 textImg(searchMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'stalkermenu': case prefix+'stalkmenu':{
+            case prefix+'stalkermenu': case prefix+'stalk':{
                 textImg(stalkMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'randommenu': case prefix+'menurandom':{
+            case prefix+'randommenu': case prefix+'random':{
                 textImg(randomMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'animemenu': case prefix+'menuanime': case prefix+'wibumenu':{
+            case prefix+'animemenu': case prefix+'menuanime': case prefix+'wibu':{
                 textImg(animeMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'toolsmenu': case prefix+'menutools':{
+            case prefix+'toolsmenu': case prefix+'tools':{
                 textImg(toolsMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'makermenu': case prefix+'menumaker':{
+            case prefix+'makermenu': case prefix+'maker':{
                 textImg(makerMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'othermenu': case prefix+'menuother':{
+            case prefix+'othermenu': case prefix+'other':{
                 textImg(otherMenu(prefix, setting.ownerName))
             }
                 break
-            case prefix+'nsfwmenu': case prefix+'hentaimenu': case prefix+'menunsfw': case prefix+'menuhentai':{
+            case prefix+'nsfwmenu': case prefix+'hentaimenu': case prefix+'menunsfw': case prefix+'nsfw':{
                 textImg(hentaiMenu(prefix, setting.ownerName))
             }
                 break
@@ -1020,7 +1020,7 @@ module.exports = async(xinz, msg, blocked, baterai, _afk, welcome, left) => {
             case prefix+'donate': case prefix+'donasi':
                 textImg(setting.txtDonasi)
                 break
-            case prefix+'sourcecode': case prefix+'sc': case prefix+'src':
+            case prefix+'sourceode': case prefix+'c': case prefix+'s':
                 textImg(`Bot ini menggunakan sc : https://github.com/MizakoGans/whabot`)
                 break
             case prefix+'runtime':
